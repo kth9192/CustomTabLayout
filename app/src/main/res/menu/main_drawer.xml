@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_test1"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="샘플1" />
+        <!--<item-->
+            <!--android:id="@+id/nav_calendar"-->
+            <!--android:icon="@drawable/ic_event_note_black_24dp"-->
+            <!--android:title="스케줄" />-->
+        <item
+            android:id="@+id/nav_test2"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="샘플2" />
+        <item
+            android:id="@+id/nav_test3"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="샘플3" />
+    </group>
+
+</menu>

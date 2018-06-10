@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomToolBarStyle" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:textColorSecondary">#ffffff</item>
+        <item name="android:titleTextStyle">@style/TitleTextStyle</item>
+        <item name="android:popupMenuStyle">@style/MyPopupMenu</item>
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+</resources>
